@@ -11,3 +11,5 @@ per me startu projektin ju duhet mi kry qeto pune:
 2. 
 3.
 4.
+
+5.
